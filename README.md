@@ -6,7 +6,7 @@ The repo consists of fodlers containing the code files in jupyter notebook (.ipy
 
 The project consists of a sentiment analysis perfomed on tweets about dairy production research in Ireland which was performed on Tweet data collected using the free Twitter API. 
 
-An interactive dashboard was created showing a choropleth map of Europs milk production from 1970 to 2021 which allowed the user to chose the year of data to display.
+An interactive dashboard was created showing a choropleth map of Europes milk production from 1970 to 2021 which allowed the user to chose the year of data to display.
 
 Interactive figures were created using plotly express to show differences in European Milk productin in recent years compared to Ireland.
 

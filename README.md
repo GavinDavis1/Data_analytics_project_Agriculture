@@ -2,7 +2,7 @@ This repo contains all the code files and report files for the completion of a d
 
 The data was sourced from data.gov and eurotstat which are freely available datasets.
 
-The repo consists of fodlers containing the code files in jupyter notebook (.ipynb) format and the report files are written in microsoft word (.docx)
+The repo consists of folders containing the code files in jupyter notebook (.ipynb) format and the report files are written in microsoft word (.docx)
 
 The project consists of a sentiment analysis perfomed on tweets about dairy production research in Ireland which was performed on Tweet data collected using the free Twitter API. 
 

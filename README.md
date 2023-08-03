@@ -12,4 +12,4 @@ Interactive figures were created using plotly express to show differences in Eur
 
 Different datasets were merged, cleaned and prepared for implemetation into machine learning models to precdict milk production.
 
-Linear regrression, decision tree regressor and random forest regressor were compared for their ability to predict Milk productin with random forest regressor showing the highest accuracy.
+Linear regression, decision tree regressor and random forest regressor were compared for their ability to predict Milk production with random forest regressor showing the highest accuracy.
